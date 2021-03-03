@@ -1,6 +1,6 @@
-### 👋 Hi there I'm Kevin Peng
-#### 📚 I'm an Integrated Engineering student studying at The University of British Columbia 
-#### 📫 You can find out more about me here: https://kevinetpeng.github.io/Personal-Portfolio/ 
+### Hi there I'm Kevin Peng 👋
+📚 I'm an Integrated Engineering student studying at The University of British Columbia 
+📫 You can find out more about me here: https://kevinetpeng.github.io/Personal-Portfolio/ 
 
 <!--
 **KevinetPeng/KevinetPeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
