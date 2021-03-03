@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Kevin Peng, you can find out more about me here: https://kevinetpeng.github.io/Personal-Portfolio/ 
 
 <!--
 **KevinetPeng/KevinetPeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
