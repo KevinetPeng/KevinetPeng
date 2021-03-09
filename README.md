@@ -1,5 +1,5 @@
 ### Hi there I'm Kevin Peng 👋
-📚 I'm an Integrated Engineering student studying at The University of British Columbia 
+📚 I'm an Integrated Engineering student studying at The University of British Columbia with a passion for software engineering
 
 📫 Check out my website for more info about me: https://kevinetpeng.github.io/Personal-Portfolio/ 
 
